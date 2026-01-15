@@ -4,7 +4,7 @@
 
     After i got bored of retail wow, way back then when it first came out and came to the conclusion i spend way to much time on a game, i decided to focus more on other stuff. Year later i discovered Ascension and i play it casual now.
 
-    When i got fed up how the normal client looked i decided to install somee addons. Addons are mostly made with an author's idea how it should be or look like. So i got fed up again because addons like Weakauras/Elvui had different fonts, fonts that we're too tiny on my BIG TV :). So i wanted to change that.
+    When i got fed up how the normal client looked i decided to install somee addons. Addons are mostly made with an author's idea how it should be or look like. So i got fed up again because addons like Weakauras/Elvui had different fonts, fonts that we're too tiny on my BIG TV. So i wanted to change that.
 
     This got me into looking at the code and trying to adjust it to my preferences. In the meanwhile i discovered ChatGPT, Oh Noooo, and it's one of the few AI agents that let's you upload .zip files to it. That made things easier, cause i'm lazy by nature especially if it's boring work/stuff.
 
