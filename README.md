@@ -2,7 +2,7 @@
 
       Hi my name is Bob,
 
-      After i got bored of retail wow, way back then when it first came out and came to the conclusion i spend way to much time on a game, i decided to focus more on other stuff. Year later i discovered Ascension and i play it casual now.
+      After i got bored of retail wow, way back when it first came out, and came to the conclusion i spend way to much time on a game, i decided to focus more on other stuff. Year later i discovered Ascension and i play it casual now.
 
       When i got fed up how the normal client looked i decided to install somee addons. Addons are mostly made with an author's idea how it should be or look like. So i got fed up again because addons like Weakauras/Elvui had different fonts, fonts that we're too tiny on my BIG TV. So i wanted to change that.
 
